@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String args){
+    public static void main(String[] args){
         Kennel kennel = new Kennel();
         kennel.addPet(new Cat("Chloe"));
         kennel.addPet(new Dog("Goldy"));
